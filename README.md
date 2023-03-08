@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakaria Zitouni</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🌱 I’m currently learning **HTML5 , CSS, JavaScript**
+- 🌱 I’m currently learning **HTML5 , CSS, JavaScript ,PHP , Laravel **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zackweb-ai/](https://github.com/Zackweb-ai/)
 
